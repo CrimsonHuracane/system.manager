@@ -23,3 +23,35 @@
 pip install PySide6 psutil pywin32 ldap3 numpy pyqtgraph
 python main.py
 ```
+
+##  Скриншоты
+
+### Экран мониторинга
+![Главный экран](screenshots/mon.png)
+
+### Удаленное подключение
+![Мониторинг](screenshots/rdp.png)
+
+![Мониторинг](screenshots/rdp1.png)
+
+![Мониторинг](screenshots/rdp2.png)
+### Процессы
+![Процессы](screenshots/proc.png)
+
+### Службы
+![Службы](screenshots/ser.png)
+
+### Пользователи
+![Пользователи](screenshots/users.png)
+
+### Логи
+![Пользователи](screenshots/log.png)
+
+### Подключенные пк
+![Пользователи](screenshots/pc.png)
+
+### Быстрый доступ
+![Пользователи](screenshots/fast.png)
+
+### Настройки
+![Пользователи](screenshots/set.png)
