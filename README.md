@@ -53,7 +53,7 @@ python main.py
 ![Пользователи](screenshots/pc.png)
 
 ### Быстрый доступ
-![Пользователи](screenshots/fast.png)
+![Пользователи](screenshots/fast1.png)
 
 ### Настройки
 ![Пользователи](screenshots/set.png)
